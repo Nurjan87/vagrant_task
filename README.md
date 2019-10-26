@@ -12,7 +12,7 @@
 
 
 ## Before you run vagrant up 
-1. clone the `git clone https://github.com/fsadykov/vagrant-projects.git` 
+1. clone the `git clone https://github.com/Nurjan87/vagrant-projects.git` 
 2. Run `cd web-server`
 3.  You will need  to set up some environments 
 	1. run `export AWS_ACCESS_KEY='Access key'`
